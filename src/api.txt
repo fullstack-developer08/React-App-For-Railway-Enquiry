@@ -1,0 +1,4 @@
+// GET Live status of the train
+
+https://api.railwayapi.com/v2/live/train/12046/date/20-06-2017/apikey/myapikey/
+
